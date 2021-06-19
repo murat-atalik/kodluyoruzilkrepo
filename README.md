@@ -29,4 +29,5 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 [MIT](https://github.com/murat-atalik/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![github](https://prnt.sc/15z4khj)
+![github](![image](https://user-images.githubusercontent.com/62357472/122654753-374b3380-d156-11eb-8ed1-3541fe05c2fe.png)
+)
